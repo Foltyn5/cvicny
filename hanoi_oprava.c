@@ -19,3 +19,4 @@ int main()
   hanoi(n, 1, 2);
   return 0;
 }
+/*nieco
