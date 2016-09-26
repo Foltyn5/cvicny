@@ -11,7 +11,7 @@ nastane koniec sveta, len nikto, kto klastor navstivil si presne nepamata
 kolko kamenov mnisi prekladaju...
 
 Nas tim tvoria clenovia:
-1. Jonatan Foltýn
-2. Viliam Vakerman
-3. Peter Hlatky
-4. Eva Kunovská
+1. 
+2. 
+3. 
+4. 
